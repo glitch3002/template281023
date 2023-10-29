@@ -1,0 +1,12 @@
+.git
+.gitignore
+.key
+.tmp
+.coverage
+.pytest_cache
+credentials
+Dockerfile*
+docker-compose*
+README.md
+LICENSE
+.vscode
